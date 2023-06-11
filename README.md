@@ -1,6 +1,6 @@
-Hi :octocat:, my name is Argyrios and i am interested in Software Engineering.
+Hi :octocat:, my name is Argyrios and currently i am on my way to becoming a Software Engineer.
 
-- I’m currently learning front end development with React.
+- Right now i’m learning front end development with React.
 
 My favorite technologies include:
 
