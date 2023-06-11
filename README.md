@@ -1,4 +1,4 @@
-Hi :octocat:, my name is Argyrios and i am on my way to becoming a software engineer.
+Hi :octocat:, my name is Argyrios and i am on my way to becoming a ### Software Engineer.
 
 - I’m currently learning front end development with React.
 
