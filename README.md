@@ -1,9 +1,8 @@
-Hi :octocat:, my name is Argyrios and currently i am on my way to becoming a Software Engineer.
-
-- Right now i’m learning front end development with React.
+Hi :octocat:, my name is Argyrios.
+I'm on my way to becoming a Software Engineer.
+I’m learning front end development with React.
 
 My favorite technologies include:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
