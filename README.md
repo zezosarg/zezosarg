@@ -1,4 +1,6 @@
-### Favorite technologies :octocat:
+### Hi :octocat:, my name is Argyrios and i want to be a software engineer.
+
+### My favorite technologies are:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
