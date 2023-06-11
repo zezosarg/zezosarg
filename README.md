@@ -1,8 +1,8 @@
 Hi :octocat:, my name is Argyrios and i want to be a software engineer.
 
-- 🌱 I’m currently learning front end development with React.
+- I’m currently learning front end development with React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;.
 
-My favorite technologies are:
+My favorite technologies include:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
