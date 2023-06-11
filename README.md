@@ -1,6 +1,6 @@
 Hi! , my name is Argyrios :octocat:
 I'm on my way to becoming a Software Engineer 🛠️
-I’m learning front end development with React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+I’m learning front end development with <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 My favorite technologies include:
 <div>
