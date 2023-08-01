@@ -1,4 +1,4 @@
-Hi! , my name is Argyrios :octocat: and i identify as a Software Engineer 🛠️.
+Hi! , my name is Argyrios :octocat: and i like to engineer software 🛠️.
 <div>
   I'm familiar with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
